@@ -1,0 +1,23 @@
+* {
+    color: white;
+    font-size: 111%;
+    list-style:none;
+}
+h1, h2 {
+    background-color: cyan;
+    border-radius: 25% 25% 25% 25%;
+}
+h1 {
+    font-size: 2em;
+}
+h2 {
+    font-size: 1em;
+}
+.text {
+    color:blue;
+}
+body {
+ background-image:url('img/espg4326.png');
+ background-size: cover;
+ opacity: 0.8;
+}
